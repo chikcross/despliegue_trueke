@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Stiker N° 1",
+        "descripcion": "Programando Web",
+        "cantidad": 10,
+        "imagen":"./Imagenes/img1.jpg",
+        "usuario":"Ramiro",
+        "valor":"Alta"
+    },
+    {
+        "nombre": "Stiker N° 2",
+        "descripcion": "Programando contra reloj",
+        "cantidad": 20,
+        "imagen":"./Imagenes/img2.gif",
+        "usuario":"Juan",
+        "valor":"Media"
+    },
+    {
+        "nombre": "Stiker N° 3",
+        "descripcion": "Programador Senior",
+        "cantidad": 30,
+        "imagen":"./Imagenes/img3.png",
+        "usuario":"Ana",
+        "valor":"Baja"
+    },
+    {
+        "nombre": "Sitker N° 4",
+        "descripcion": "Pragramador Junior",
+        "cantidad": 40,
+        "imagen":"./Imagenes/img4.gif",
+        "usuario":"Pedro",
+        "valor":"Alta"
+    },
+    {
+        "nombre": "Stiker N° 5",
+        "descripcion": "Desarrollo Web ",
+        "cantidad": 50,
+        "imagen":"./Imagenes/img5.webp",
+        "usuario":"Juana",
+        "valor":"Alta"
+    },
+    {
+        "nombre": "Sitker N° 6",
+        "descripcion": "Creando App",
+        "cantidad": 50,
+        "imagen":"./Imagenes/img6.gif",
+        "usuario":"Juana",
+        "valor":"Alta"
+    }
+
+
+]
