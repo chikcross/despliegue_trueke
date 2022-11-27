@@ -28,7 +28,7 @@ class Formulario extends Component {
     }
     guardar(){
         //alert("Guardando...")
-        axios.post('http://localhost:5000/servicios/nuevo',this.state)
+        axios.post('https://despliegue-trueke.vercel.app/nuevo',this.state)
             .then(console.log("Creado"))
         alert('Artículo creado')
         this.setState({nombre:""})

@@ -7,7 +7,7 @@ const Bdmongo=()=>{
     const [todo,settodo]=useState([])
 
     const var_datos=()=>{
-        fetch('http://localhost:5000/servicios/todo')
+        fetch('https://despliegue-trueke.vercel.app/todo')
             .then(res=>res.json())
             .then(datos2=>settodo(datos2))
     }

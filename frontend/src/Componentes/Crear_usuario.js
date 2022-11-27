@@ -28,7 +28,7 @@ class Crear_usuario extends Component {
 
     }
     guardar(){
-        axios.post('http://localhost:5000/usuarios/nuevo',this.state)
+        axios.post('https://despliegue-trueke.vercel.app/nuevo',this.state)
         .then(console.log("Creado"))
     alert('Usuario creado')
     this.setState({nombre:""})
